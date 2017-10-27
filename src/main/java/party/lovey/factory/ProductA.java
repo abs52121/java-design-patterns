@@ -3,6 +3,7 @@ package party.lovey.factory;
 
 /**
  * Sample实现A
+ *
  * @author huhaichao
  */
 public class ProductA implements Product {

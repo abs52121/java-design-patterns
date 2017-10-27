@@ -8,5 +8,4 @@ target
 .idea
 *.iml
 
-catalina.home_IS_UNDEFINED
-*.war
+
