@@ -8,9 +8,5 @@ public class Main {
         Person man1 = personBuilder.buildPerson();
 
         Person man2 = new PersonDirector().constructPerson(personBuilder);
-
-        Person women = Person.builder().head("漂亮的头").body("前凸后翘的身材").food("好看的脚").build();
-
-
     }
 }
